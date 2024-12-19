@@ -1,81 +1,100 @@
-<h1 align="center">Hey There 👋</h1>
+# Welcome to Emran Mohammedyakob Kedir's GitHub Profile
 
-###
+Hello! I'm **Emran Mohammedyakob Kedir**, an aspiring Data Scientist Engineer with a passion for technology, coding, and solving real-world problems through AI and machine learning. Welcome to my GitHub repository, where I showcase my projects, contributions, and ideas that I believe can make a difference!
 
-<h3 align="left">👩‍💻  About Me</h3>
+---
 
-###
+## 👨‍💻 About Me
 
-<p align="left">I'm ... from ....Ethiopia<br><br>- 🔭 I’m working as ... Full stack Web Developer<br>- 📚</p>
+- **Name**: Emran Mohammedyakob Kedir  
+- **Education**: B.Sc. in Information Technology (Madda Walabu University, Ethiopia)  
+- **Email**: [zeshaninsta@gmail.com](mailto:zeshaninsta@gmail.com)  
+- **Phone**: +251928137925  
+- **LinkedIn**: [linkedin.com/in/zeshaninsta](https://linkedin.com/in/zeshaninsta)  
+- **GitHub**: [github.com/zeshaninsta](https://github.com/zeshaninsta)  
 
-###
+I graduated with a CGPA of 3.29 and a Major GPA of 3.49. During my studies, I gained expertise in web development, app development, and AI & machine learning. I'm fluent in Afaan Oromo, Amharic, and Arabic, and conversational in English.
 
-<h3 align="left">🛠 Language and tools</h3>
+---
 
-###
+## 🚀 Skills & Interests
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
-</div>
+### Technical Skills:
+- **Web Development**: HTML, CSS, JavaScript, React, TailwindCSS, PHP, MySQL
+- **Mobile App Development**: Flutter, Java
+- **AI & Machine Learning**: Intermediate experience
 
-###
+### Current Focus:
+- Learning and building projects in **Data Science**
+- Creating innovative solutions using **Machine Learning** and **AI**
 
-<br clear="both">
+### Soft Skills:
+- Leadership and teamwork
+- Communication and mentoring
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=zeshaninsta&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+---
 
-###
+## 🌟 Contributions & Achievements
 
-<h3 align="left">🔥   My Stats :</h3>
+### 📊 GitHub Contributions:
+- **Monthly Visualizations**: I regularly analyze and visualize my GitHub contributions.
+- Projects that showcase my dedication and improvement in coding.
 
-###
+### 🚀 Project Highlights:
+1. **Pneumonia Detection System**: Predicted pneumonia using chest X-ray images. Built with React (frontend), Flask & Django (backend), and TailwindCSS (styling).
+2. **Crop Recommendation System**: Developed during an internship at Dan Energy Research and Development PLC using Random Forest algorithms.
+3. **Hand Gesture Recognition Model**: Built a model to identify and classify hand gestures for gesture-based control systems.
+4. **Text Auto-Correction for Oromo Language**: Working on a project to detect and correct errors in Oromo text, using a dataset of historical stories.
+5. **House Price Prediction Model**: Built a linear regression model to predict house prices using Kaggle's dataset.
 
-<br clear="both">
+### ⚡ Recent Strikes:
+- Initiated a **Clothing Design Startup**: Focused on designing and selling customized printed clothing.
+- Developed the **URJI Orphanage Organization Website**: Created with React and TailwindCSS to help support orphaned children.
 
-<div align="center">
-  <a href="https://linked.com/in/zeshaninsta" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/zeshaninsta" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://instagram.com/zeshaninsta" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
+---
 
-###
+## 📚 Featured Content
 
-<img src="https://raw.githubusercontent.com/zeshaninsta/zeshaninsta/output/snake.svg" alt="Snake animation" />
+- **YouTube Channel**: [Calaltu TV](https://youtube.com)  
+  My comedy-focused channel featuring poems and societal events with a comedic twist.
 
-###
+- **GPG Key**: Secure communications and verifications using GPG key ID: `DE2309634F6C950D3E70E6CE6B398FEAA512CF5D`
+
+---
+
+## 💻 Repository Highlights
+
+1. **Machine Learning & AI Projects**
+   - Pneumonia Detection
+   - Crop Recommendation System
+   - Hand Gesture Recognition Model
+
+2. **Web Development**
+   - URJI Orphanage Organization Website
+   - Personal portfolio showcasing my journey and skills
+
+3. **App Development**
+   - Flutter-based projects for Android and iOS
+
+---
+
+## 🌍 Languages
+- **Fluent**: Afaan Oromo, Amharic
+- **Conversational**: English
+- **Proficient**: Arabic
+
+---
+
+## 🎯 Future Goals
+- Master **Data Science** and **Machine Learning**.
+- Contribute to open-source projects that make an impact.
+- Build a robust portfolio in AI-driven solutions.
+
+---
+
+## 📬 Get in Touch
+Feel free to reach out via email or LinkedIn if you'd like to collaborate or discuss potential opportunities!
+
+---
+
+Thank you for visiting my GitHub profile. Let's innovate and make a difference together!
