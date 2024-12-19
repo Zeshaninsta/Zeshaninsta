@@ -29,11 +29,4 @@ Hello! I'm **Emran Mohammedyakob Kedir**, an aspiring Data Scientist Engineer wi
 <a href="https://www.youtube.com/c/zeshaninsta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zeshaninsta" height="30" width="40" /></a>
 </p>
 
----
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeshaninsta&show_icons=true&locale=en" alt="zeshaninsta" /></p>
-
----
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeshaninsta&show_icons=true&locale=en&layout=compact" alt="zeshaninsta" /></p>
-
 
