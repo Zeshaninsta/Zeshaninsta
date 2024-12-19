@@ -1,4 +1,5 @@
-# Welcome to Emran Mohammedyakob Kedir's GitHub Profile
+# Hi 👋, I'm zeshaninsta
+### Software Engineer and Aspiring Data Scientist
 
 Hello! I'm **Emran Mohammedyakob Kedir**, an aspiring Data Scientist Engineer with a passion for technology, coding, and solving real-world problems through AI and machine learning. Welcome to my GitHub repository, where I showcase my projects, contributions, and ideas that I believe can make a difference!
 
